@@ -21,6 +21,5 @@ public class GradeTest {
         System.out.println("B: " + B);
         System.out.println("C: " + C);
         System.out.println("D: " + D);
-
     }
 }
